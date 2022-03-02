@@ -76,8 +76,7 @@ print("""\033[42m[1] GRUP ADMIN:Radi Ahmed
 \033[42m[3] DAVOLAPER : MAHDI HASAN SUVO
 \033[42m[4] CONTRACT ME
 """)
-\033[42m
-\033[42m
+
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
 elif pil in ["01","1"]:
