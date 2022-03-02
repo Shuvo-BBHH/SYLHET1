@@ -79,7 +79,7 @@ print("""\033[42m[1] GRUP ADMIN:Radi Ahmed
 
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
-elif pil in ["01","1"]:
+if pil in ["01","1"]:
 		os.system('xdg-open https://www.facebook.com/Radi.Ahmed.official')
 		time.sleep(2)
 		print (" ")
