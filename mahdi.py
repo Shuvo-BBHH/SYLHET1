@@ -72,8 +72,8 @@ ____________________________________________________________
 ____________________________________________________________
 """)
 print("""\033[42m[1] GRUP ADMIN:Radi Ahmed
-\033[42m[2] ADMIN FB PAGE :Ahia Ahmed
-\033[42m[3] DAVOLAPER : MAHDI HASAN SUVO
+\033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
+\033[0;88m[3] DAVOLAPER : MAHDI HASAN SUVO
 \033[42m[4] CONTRACT ME
 """)
 
