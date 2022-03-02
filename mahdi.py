@@ -49,7 +49,7 @@ purple="\033[0;35m"
 def main():
 	os.system("clear")
 print("""
-  ########   ##       ## ##      ##    ##   ###### ##########
+  \033[94m########   ##       ## ##      ##    ##   ###### ##########
   ##            ##   ##  ##      ##    ##   ##         ##
   ##              ###    ##      ##    ##   ##         ##
   ########        ##     ##      ########   ######     ##
@@ -71,7 +71,7 @@ ____________________________________________________________
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ____________________________________________________________
 """)
-print("""\033[42m[1] GRUP ADMIN:Radi Ahmed
+print("""\033[42m[1] GRUP ADMIN:Radi Ahmed(SYLHET GANG)
 \033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
 \033[0;88m[3] DAVOLAPER : MAHDI HASAN SUVO
 \033[0;33m[4] CONTRACT ME : 0188740882
@@ -96,7 +96,7 @@ elif pil in ["02","2"]:
 		main()
 
 elif pil in ["03","3"]:
-		os.system('xdg-open https://github.com/CODEX-ID')
+		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
