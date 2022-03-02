@@ -51,7 +51,7 @@ def main():
 print("""
   ########   ##       ## ##      ##    ##   ###### ##########
   ##            ##    ## ##      ##    ##   ##         ##
- ##              ###     ##      ##    ##   ##         ##
+  ##              ###    ##      ##    ##   ##         ##
   ########        ##     ##      ########   ######     ##
        ##         ##     ##      ##    ##   ##         ##                                   
        ##         ##     ##      ##    ##   ##         ##
@@ -71,5 +71,39 @@ ____________________________________________________________
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ____________________________________________________________
 """)
+print("""\033[42m[1] GRUP ADMIN:Radi Ahmed
+\033[42m[2] ADMIN FB PAGE :Ahia Ahmed
+\033[42m[3] DAVOLAPER : MAHDI HASAN SUVO
+\033[42m[4] CONTRACT ME
+""")
+\033[42m
+\033[42m
+pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
+elif pil in ["01","1"]:
+		os.system('xdg-open https://www.facebook.com/Radi.Ahmed.official')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
 
+elif pil in ["02","2"]:
+		os.system('xdg-open https://www.facebook.com/Ahia.Dadu.official')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+
+elif pil in ["03","3"]:
+		os.system('xdg-open https://github.com/CODEX-ID')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+
+     
+     if __name__ == "__main__":
+	main()
