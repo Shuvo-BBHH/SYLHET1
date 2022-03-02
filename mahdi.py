@@ -103,6 +103,3 @@ elif pil in ["03","3"]:
 		time.sleep(2)
 		main()
 
-     
-     if __name__ == "__main__":
-	main()
