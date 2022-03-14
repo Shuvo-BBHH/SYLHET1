@@ -102,8 +102,7 @@ while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;92m")
     if (username == CorrectUsername):
     	
-            print "Logged in successfully as " + username #Dev:love_mahdi
-	    time.sleep(2)
+	time.sleep(2)
             loop = 'false'
         
     else:
@@ -113,7 +112,6 @@ while (loop == 'true'):
 def login()
 
  
-
 	
 print("""\033[42m[1] GRUP ADMIN:Radi Ahmed(SYLHET GANG)
 \033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
