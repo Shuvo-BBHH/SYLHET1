@@ -93,16 +93,7 @@ ____________________________________________________________
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ____________________________________________________________
 """)
-
-CorrectUsername = "Mahdi"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;91m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;92m")
-    if (username == CorrectUsername):
-    	
-            loop = 'false'
-     	
+  	
 print("""\033[42m[1] GRUP ADMIN:Radi Ahmed(SYLHET GANG)
 \033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
 \033[0;88m[3] DAVOLAPER : MAHDI HASAN SUVO
