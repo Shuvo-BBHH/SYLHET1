@@ -50,17 +50,17 @@ def main():
 	os.system("clear")
 print("""
                                                                                                                                                                                                                                                                                                                                                                                                                    
-   SSSSSSSSSSSSSSS YYYYYYY       YYYYYYYLLLLLLLLLLL             HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTTTTTT\033[0;32m
+\033[0;33mSSSSSSSSSSSSSSS YYYYYYY       YYYYYYYLLLLLLLLLLL             HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTTTTTT\033[0;32m
  SS:::::::::::::::SY:::::Y       Y:::::YL:::::::::L             H:::::::H     H:::::::HE::::::::::::::::::::ET:::::::::::::::::::::T
 S:::::SSSSSS::::::SY:::::Y       Y:::::YL:::::::::L             H:::::::H     H:::::::HE::::::::::::::::::::ET:::::::::::::::::::::T\33[93m
 S:::::S     SSSSSSSY::::::Y     Y::::::YLL:::::::LL             HH::::::H     H::::::HHEE::::::EEEEEEEEE::::ET:::::TT:::::::TT:::::T
 S:::::S            YYY:::::Y   Y:::::YYY  L:::::L                 H:::::H     H:::::H    E:::::E       EEEEEETTTTTT  T:::::T  TTTTTT
-S:::::S               Y:::::Y Y:::::Y     L:::::L                 H:::::H     H:::::H    E:::::E                     T:::::T  \033[0m="\033[1;37m      
+S:::::S               Y:::::Y Y:::::Y     L:::::L                 H:::::H     H:::::H    E:::::E                     T:::::T\033[0m="\033[1;37m      
  S::::SSSS             Y:::::Y:::::Y      L:::::L                 H::::::HHHHH::::::H    E::::::EEEEEEEEEE           T:::::T        
-  SS::::::SSSSS         Y:::::::::Y       L:::::L                 H:::::::::::::::::H    E:::::::::::::::E           T:::::T        
+  SS::::::SSSSS         Y:::::::::Y       L:::::L                 H:::::::::::::::::H    E:::::::::::::::E           T:::::T\033[94m        
     SSS::::::::SS        Y:::::::Y        L:::::L                 H:::::::::::::::::H    E:::::::::::::::E           T:::::T        
        SSSSSS::::S        Y:::::Y         L:::::L                 H::::::HHHHH::::::H    E::::::EEEEEEEEEE           T:::::T        
-            S:::::S       Y:::::Y         L:::::L                 H:::::H     H:::::H    E:::::E                     T:::::T        
+            S:::::S       Y:::::Y         L:::::L                 H:::::H     H:::::H    E:::::E                     T:::::T\033[0;35m        
             S:::::S       Y:::::Y         L:::::L         LLLLLL  H:::::H     H:::::H    E:::::E       EEEEEE        T:::::T        
 SSSSSSS     S:::::S       Y:::::Y       LL:::::::LLLLLLLLL:::::LHH::::::H     H::::::HHEE::::::EEEEEEEE:::::E      TT:::::::TT\033[1;37m     
 S::::::SSSSSS:::::S    YYYY:::::YYYY    L::::::::::::::::::::::LH:::::::H     H:::::::HE::::::::::::::::::::E      T:::::::::T      
@@ -71,7 +71,7 @@ S:::::::::::::::SS     Y:::::::::::Y    L::::::::::::::::::::::LH:::::::H     H:
                                                                                                                                 
         GGGGGGGGGGGGG               AAA               NNNNNNNN        NNNNNNNN        GGGGGGGGGGGGG\033[0;35m                                 
      GGG::::::::::::G              A:::A              N:::::::N       N::::::N     GGG::::::::::::G                                 
-   GG:::::::::::::::G             A:::::A             N::::::::N      N::::::N   GG:::::::::::::::G                                 
+   GG:::::::::::::::G             A:::::A             N::::::::N      N::::::N   GG:::::::::::::::G\033[0;35m                               
   G:::::GGGGGGGG::::G            A:::::::A            N:::::::::N     N::::::N  G:::::GGGGGGGG::::G                                 
  G:::::G       GGGGGG           A:::::::::A           N::::::::::N    N::::::N G:::::G       GGGGGG                                 
 G:::::G                        A:::::A:::::A          N:::::::::::N   N::::::NG:::::G                                               
@@ -79,7 +79,7 @@ G:::::G                       A:::::A A:::::A         N:::::::N::::N  N::::::NG:
 G:::::G    GGGGGGGGGG        A:::::A   A:::::A        N::::::N N::::N N::::::NG:::::G    GGGGGGGGGG\033[4;31m                               
 G:::::G    G::::::::G       A:::::A     A:::::A       N::::::N  N::::N:::::::NG:::::G    G::::::::G                                 
 G:::::G    GGGGG::::G      A:::::AAAAAAAAA:::::A      N::::::N   N:::::::::::NG:::::G    GGGGG::::G                                 
-G:::::G        G::::G     A:::::::::::::::::::::A     N::::::N    N::::::::::NG:::::G        G::::G                                 
+G:::::G        G::::G     A:::::::::::::::::::::A     N::::::N    N::::::::::NG:::::G        G::::G\033[0;35m                                
  G:::::G       G::::G    A:::::AAAAAAAAAAAAA:::::A    N::::::N     N:::::::::N G:::::G       G::::G                                 
   G:::::GGGGGGGG::::G   A:::::A             A:::::A   N::::::N      N::::::::N  G:::::GGGGGGGG::::G\033[96m                               
    GG:::::::::::::::G  A:::::A               A:::::A  N::::::N       N:::::::N   GG:::::::::::::::G                                 
