@@ -1,7 +1,7 @@
 # sylhet
-git clone https://github.com/Shuvo-BBHH/sylhET
+git clone https://github.com/Shuvo-BBHH/sylhet1
 
-cd sylhET
+cd sylhet1
 
 python mahdi.py
 
