@@ -49,9 +49,7 @@ purple="\033[0;35m"
 def main():
 	os.system("clear")
 print("""
-                                                                                                                                      
-                                                                                                                                           
-                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                   
    SSSSSSSSSSSSSSS YYYYYYY       YYYYYYYLLLLLLLLLLL             HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTTTTTT\033[0;32m
  SS:::::::::::::::SY:::::Y       Y:::::YL:::::::::L             H:::::::H     H:::::::HE::::::::::::::::::::ET:::::::::::::::::::::T
 S:::::SSSSSS::::::SY:::::Y       Y:::::YL:::::::::L             H:::::::H     H:::::::HE::::::::::::::::::::ET:::::::::::::::::::::T\33[93m
@@ -105,13 +103,7 @@ while (loop == 'true'):
     	
             loop = 'false'
         
-    else:
-        print "\033[1;94mWrong Username"
-        os.system('xdg-open https://web.facebook.com/mahdi80808')
-
-def login()
-
- 
+ os.system('xdg-open https://web.facebook.com/mahdi80808')
 	
 print("""\033[42m[1] GRUP ADMIN:Radi Ahmed(SYLHET GANG)
 \033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
