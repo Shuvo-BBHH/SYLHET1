@@ -132,10 +132,7 @@ elif pil in ["02","2"]:
 elif pil in ["Admin","ADMIN"]:
 	os.system("git clone https://github.com/Shuvo-BBHH/mahdi.2")
 	os.system("cd mahdi.2")
-	os.system("python mahdi.py")
-	n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
+	os.system("python mahdi.py")	
 		
 elif pil in ["03","3"]:
 		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
