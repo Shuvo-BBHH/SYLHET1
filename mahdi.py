@@ -95,46 +95,29 @@ ____________________________________________________________
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ____________________________________________________________
 """)
-
-CorrectUsername = "MAHDI"
-
-CorrectPassword = "HASAN"
-
- 
+CorrectUsername = "Mahdi"
+CorrectPassword = "Hasan"
 
 loop = 'true'
-
 while (loop == 'true'):
-
-    username = raw_input("\033[1;97m\x1b[1;94mTool Username \x1b[1;92m»» \x1b[1;96m")
-
+    username = raw_input("\033[1;91m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;92m")
     if (username == CorrectUsername):
-
-    	password = raw_input("\033[1;97m \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
-
-        if (password==CorrectPassword):
-
-            print "Logged in successfully as " + username #Dev:KING_MAHDI
-
+    	password = raw_input("\033[1;91m🗝 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
+        if (password == CorrectPassword):
+            print "Logged in successfully as " + username #Dev:love_mahdi
 	    time.sleep(2)
-
             loop = 'false'
-
         else:
-
-            print "\033[1;94mWrong Password"
-
+            print "\033[1;93mWrong Password"
             os.system('xdg-open https://web.facebook.com/mahdi80808')
-
     else:
-
         print "\033[1;94mWrong Username"
+        os.system('xdg-open https://web.facebook.com/mahdi80808')
 
-        os.system('xdg-open  https://web.facebook.com/mahdi80808')
+def login()
 
  
 
-        os.system('xdg-open https://web.facebook.com/mahdi80808 ')
 	
 print("""\033[42m[1] GRUP ADMIN:Radi Ahmed(SYLHET GANG)
 \033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
