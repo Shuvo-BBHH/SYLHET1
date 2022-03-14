@@ -102,9 +102,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	
             loop = 'false'
-        
- os.system('xdg-open https://web.facebook.com/mahdi80808')
-	
+     	
 print("""\033[42m[1] GRUP ADMIN:Radi Ahmed(SYLHET GANG)
 \033[0;88m[2] ADMIN FB PAGE :Ahia Ahmed
 \033[0;88m[3] DAVOLAPER : MAHDI HASAN SUVO
