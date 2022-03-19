@@ -114,7 +114,7 @@ elif pil in ["admin","Admin"]:
 		main()
 		
 		
-elif pil in ["03","3"]:
+elif pil in ["05","5"]:
 	    print("""\033[0;45m.88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `8b 88   88 88  `8D   `88'\n88  88  88 88ooo88 88ooo88 88   88    88\n88  88  88 88~~~88 88~~~88 88   88    88\n88  88  88 88   88 88   88 88  .8D   .88.\nYP  YP  YP YP   YP YP   YP Y8888D' Y888888P                                             
 \033[0m================================================================
 CREATED BY MAHDI HASAN(SHUVO)
