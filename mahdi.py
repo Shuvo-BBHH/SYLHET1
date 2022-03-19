@@ -105,7 +105,7 @@ elif pil in ["02","2"]:
 
 	
 		
-elif pil in ["03","3"]:
+elif pil in ["admin","Admin"]:
 		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
 		time.sleep(2)
 		print (" ")
